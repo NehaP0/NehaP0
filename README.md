@@ -10,6 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nehaphadtare334@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love listening to music.
--->
+ My LinkedIn: https://www.linkedin.com/in/neha-phadtare/
+
+
+
 
 
