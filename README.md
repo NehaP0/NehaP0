@@ -10,8 +10,7 @@ Portfolio : <a href='https://nehap0.github.io/'>Neha</a>
 - ⚡ Fun fact: I love listening to music.
  My LinkedIn: https://www.linkedin.com/in/neha-phadtare/
  
- 
- [![GitHub Streak](https://streak-stats.demolab.com/?NehaP0=DenverCoder1)](https://git.io/streak-stats)
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
 
 
 
