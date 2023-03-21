@@ -9,6 +9,9 @@ Portfolio : <a href='https://nehap0.github.io/'>Neha</a>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love listening to music.
  My LinkedIn: https://www.linkedin.com/in/neha-phadtare/
+ 
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com/?NehaP0=DenverCoder1)](https://git.io/streak-stats)
 
 
 
