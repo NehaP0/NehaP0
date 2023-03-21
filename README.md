@@ -20,6 +20,8 @@ Portfolio : <a href='https://nehap0.github.io/'>Neha</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaP0)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaP0&hide_progress=true)](https://github.com/NehaP0/github-readme-stats)
+
 
 
 
