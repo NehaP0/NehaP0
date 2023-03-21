@@ -16,6 +16,8 @@ Portfolio : <a href='https://nehap0.github.io/'>Neha</a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NehaP0&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaP0&layout=compact)](https://github.com/NehaP0/github-readme-stats)
+
 
 
 
