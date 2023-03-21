@@ -14,7 +14,7 @@ Portfolio : <a href='https://nehap0.github.io/'>Neha</a>
    [![GitHub Streak](https://streak-stats.demolab.com/?user=NehaP0&theme=radical)](https://git.io/streak-stats)
   
    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NehaP0&show_icons=true)
- 
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NehaP0&show_icons=true&theme=radical)
 
 
 
