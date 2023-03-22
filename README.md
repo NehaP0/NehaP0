@@ -21,6 +21,10 @@
 
 
 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaP0">Most Used Languages</a>
+
+
+
 
 
 
