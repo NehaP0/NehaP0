@@ -11,12 +11,12 @@ Portfolio : <a href='https://nehap0.github.io/'>Neha</a>
  My LinkedIn: https://www.linkedin.com/in/neha-phadtare/
  
  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NehaP0&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=NehaP0&theme=radical)](https://git.io/streak-stats)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NehaP0&show_icons=true&theme=radical)
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NehaP0&bg_color=000000&color=ff69b4&line=24292e&point=24292e&area=true&hide_border=true)]
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NehaP0&bg_color=000000&color=ff69b4&line=24292e&point=24292e&area=true&hide_border=true)
 
 
 
