@@ -16,7 +16,7 @@ Portfolio : <a href='https://nehap0.github.io/'>Neha</a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NehaP0&show_icons=true&theme=radical)
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NehaP0&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)]
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NehaP0&bg_color=000000&color=708090&line=24292e&point=24292e&area=true&hide_border=true)]
 
 
 
