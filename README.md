@@ -1,5 +1,5 @@
 ### Hi there 👋
-Portfolio : <a href='https://nehap0.github.io/'>Neha</a>
+
 
 
 - 🌱 I’m currently learning MERN stack web development.
