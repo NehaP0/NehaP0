@@ -21,7 +21,7 @@
 
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaP0)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaP0&theme=radical)
 
 
 
