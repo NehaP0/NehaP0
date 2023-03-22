@@ -8,7 +8,7 @@
 - 💬 Ask me about HTML, CSS, JavaScript, React.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love listening to music.
-- - 📫 How to reach me: nehaphadtare334@gmail.com
+- 📫 How to reach me: nehaphadtare334@gmail.com
 - My LinkedIn: https://www.linkedin.com/in/neha-phadtare/
  
  
