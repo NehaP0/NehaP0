@@ -11,7 +11,7 @@
 - 📫 How to reach me: nehaphadtare334@gmail.com
 - My LinkedIn: https://www.linkedin.com/in/neha-phadtare/
  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NehaP0&rank=-C)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NehaP0&theme=radical&rank=-C)
  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=NehaP0&theme=radical)
 
