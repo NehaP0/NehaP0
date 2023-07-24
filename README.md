@@ -2,12 +2,12 @@
 
 
 
-- 🌱 I’m currently learning MERN stack web development.
+- 🌱 I have learned MERN stack web development.
 - 💼 Here's my <a href='https://nehap0.github.io/'>Portfolio</a>.
 - 👯 I’m looking to work on Full-stack web development.
 - 💬 Ask me about HTML, CSS, JavaScript, React, NodeJS, Mongodb, ExpressJS.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love listening to music while I code.
+- ⚡ Fun fact: I love listening to music.
 - 📫 How to reach me: nehaphadtare334@gmail.com
 - My LinkedIn: https://www.linkedin.com/in/neha-phadtare/
  
