@@ -8,7 +8,7 @@
 - 💬 Ask me about HTML, CSS, JavaScript, React, NodeJS, Mongodb, ExpressJS.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love listening to music.
-- 📫 How to reach me: nehaphadtare334@gmail.com
+- 📫 How to reach me: nehaphadtare443@gmail.com
 - My LinkedIn: https://www.linkedin.com/in/neha-phadtare/
  
 ![GitHub Trophies](https://github-profile-trophy-eight.vercel.app/?username=NehaP0&theme=radical)
