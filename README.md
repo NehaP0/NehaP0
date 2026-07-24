@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 
-
+- 👯 I’m working as an Associate Software Developer.
 - 🌱 I have learned MERN stack web development.
 - 💼 Here's my <a href='https://nehap0.github.io/'>Portfolio</a>.
-- 👯 I’m working as a Frontend Developer.
-- 💬 Ask me about HTML, CSS, JavaScript, React, NodeJS, Mongodb, ExpressJS.
+- 💬 Ask me about React, NodeJS, MongoDB, ExpressJS, HTML, CSS, JavaScript.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love listening to music.
 - 📫 How to reach me: nehaphadtare443@gmail.com
